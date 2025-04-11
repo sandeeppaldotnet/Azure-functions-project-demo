@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Event_Hub_Trigger": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7272",
+      "launchBrowser": false
+    }
+  }
+}
